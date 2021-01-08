@@ -3,7 +3,7 @@ import BlogList from "./BlogList";
 
 
 const Home = () => {
-  const [blogs, setBlogs] = useState([null]);
+  const [blogs, setBlogs] = useState(null);
 
   //const [name,setName] = useState('Mario');
 
